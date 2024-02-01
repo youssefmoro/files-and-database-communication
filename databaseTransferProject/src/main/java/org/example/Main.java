@@ -28,7 +28,7 @@ public class Main {
          //Schedule Inventory's task to run every 1 second
         executorService.scheduleAtFixedRate(task3, 0, 1, TimeUnit.SECONDS);
 
-        // Sleep for 5 seconds to allow the tasks to run multiple times
+        // Sleep for 7 seconds to allow the tasks to run multiple times
         try {
             Thread.sleep(7000);
         } catch (InterruptedException e) {
