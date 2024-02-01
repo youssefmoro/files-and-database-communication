@@ -1,0 +1,2 @@
+1,01004847041,mawad@gmail.com,mawad,Maadi,12014122221:creditcard;14111224214:Visa
+2,01140239824,yousefmoro97@gmail.com,yousefmoro,newcairo,123456789:creditcard;987654321:Visa
